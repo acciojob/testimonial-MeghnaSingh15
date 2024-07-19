@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+*{
+	background-color:#f5f5f5;
+	padding:2px;
+}
+.a{
+	padding:1px;
+	border:1px solid grey;
+}
+.b{
+	padding:1px;
+	border:1px solid grey;
+}
+p{
+	text-align:right;
+	font-style:italic;
+}
